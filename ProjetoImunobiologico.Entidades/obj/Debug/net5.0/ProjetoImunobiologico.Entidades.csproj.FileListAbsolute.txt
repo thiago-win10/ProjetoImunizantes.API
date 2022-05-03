@@ -1,0 +1,12 @@
+C:\Users\Thiago\source\repos\ProjetoImunobiologico\ProjetoImunobiologico.Entidades\bin\Debug\net5.0\ProjetoImunobiologico.Entidades.deps.json
+C:\Users\Thiago\source\repos\ProjetoImunobiologico\ProjetoImunobiologico.Entidades\bin\Debug\net5.0\ProjetoImunobiologico.Entidades.dll
+C:\Users\Thiago\source\repos\ProjetoImunobiologico\ProjetoImunobiologico.Entidades\bin\Debug\net5.0\ref\ProjetoImunobiologico.Entidades.dll
+C:\Users\Thiago\source\repos\ProjetoImunobiologico\ProjetoImunobiologico.Entidades\bin\Debug\net5.0\ProjetoImunobiologico.Entidades.pdb
+C:\Users\Thiago\source\repos\ProjetoImunobiologico\ProjetoImunobiologico.Entidades\obj\Debug\net5.0\ProjetoImunobiologico.Entidades.csproj.AssemblyReference.cache
+C:\Users\Thiago\source\repos\ProjetoImunobiologico\ProjetoImunobiologico.Entidades\obj\Debug\net5.0\ProjetoImunobiologico.Entidades.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Thiago\source\repos\ProjetoImunobiologico\ProjetoImunobiologico.Entidades\obj\Debug\net5.0\ProjetoImunobiologico.Entidades.AssemblyInfoInputs.cache
+C:\Users\Thiago\source\repos\ProjetoImunobiologico\ProjetoImunobiologico.Entidades\obj\Debug\net5.0\ProjetoImunobiologico.Entidades.AssemblyInfo.cs
+C:\Users\Thiago\source\repos\ProjetoImunobiologico\ProjetoImunobiologico.Entidades\obj\Debug\net5.0\ProjetoImunobiologico.Entidades.csproj.CoreCompileInputs.cache
+C:\Users\Thiago\source\repos\ProjetoImunobiologico\ProjetoImunobiologico.Entidades\obj\Debug\net5.0\ProjetoImunobiologico.Entidades.dll
+C:\Users\Thiago\source\repos\ProjetoImunobiologico\ProjetoImunobiologico.Entidades\obj\Debug\net5.0\ref\ProjetoImunobiologico.Entidades.dll
+C:\Users\Thiago\source\repos\ProjetoImunobiologico\ProjetoImunobiologico.Entidades\obj\Debug\net5.0\ProjetoImunobiologico.Entidades.pdb

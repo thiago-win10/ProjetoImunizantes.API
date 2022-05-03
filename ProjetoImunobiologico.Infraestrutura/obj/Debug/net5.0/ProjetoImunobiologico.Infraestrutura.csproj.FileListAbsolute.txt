@@ -1,0 +1,17 @@
+C:\Users\Thiago\source\repos\ProjetoImunobiologico\ProjetoImunobiologico.Infraestrutura\bin\Debug\net5.0\ProjetoImunobiologico.Infraestrutura.deps.json
+C:\Users\Thiago\source\repos\ProjetoImunobiologico\ProjetoImunobiologico.Infraestrutura\bin\Debug\net5.0\ProjetoImunobiologico.Infraestrutura.runtimeconfig.json
+C:\Users\Thiago\source\repos\ProjetoImunobiologico\ProjetoImunobiologico.Infraestrutura\bin\Debug\net5.0\ProjetoImunobiologico.Infraestrutura.runtimeconfig.dev.json
+C:\Users\Thiago\source\repos\ProjetoImunobiologico\ProjetoImunobiologico.Infraestrutura\bin\Debug\net5.0\ProjetoImunobiologico.Infraestrutura.dll
+C:\Users\Thiago\source\repos\ProjetoImunobiologico\ProjetoImunobiologico.Infraestrutura\bin\Debug\net5.0\ref\ProjetoImunobiologico.Infraestrutura.dll
+C:\Users\Thiago\source\repos\ProjetoImunobiologico\ProjetoImunobiologico.Infraestrutura\bin\Debug\net5.0\ProjetoImunobiologico.Infraestrutura.pdb
+C:\Users\Thiago\source\repos\ProjetoImunobiologico\ProjetoImunobiologico.Infraestrutura\bin\Debug\net5.0\ProjetoImunobiologico.Entidades.dll
+C:\Users\Thiago\source\repos\ProjetoImunobiologico\ProjetoImunobiologico.Infraestrutura\bin\Debug\net5.0\ProjetoImunobiologico.Entidades.pdb
+C:\Users\Thiago\source\repos\ProjetoImunobiologico\ProjetoImunobiologico.Infraestrutura\obj\Debug\net5.0\ProjetoImunobiologico.Infraestrutura.csproj.AssemblyReference.cache
+C:\Users\Thiago\source\repos\ProjetoImunobiologico\ProjetoImunobiologico.Infraestrutura\obj\Debug\net5.0\ProjetoImunobiologico.Infraestrutura.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Thiago\source\repos\ProjetoImunobiologico\ProjetoImunobiologico.Infraestrutura\obj\Debug\net5.0\ProjetoImunobiologico.Infraestrutura.AssemblyInfoInputs.cache
+C:\Users\Thiago\source\repos\ProjetoImunobiologico\ProjetoImunobiologico.Infraestrutura\obj\Debug\net5.0\ProjetoImunobiologico.Infraestrutura.AssemblyInfo.cs
+C:\Users\Thiago\source\repos\ProjetoImunobiologico\ProjetoImunobiologico.Infraestrutura\obj\Debug\net5.0\ProjetoImunobiologico.Infraestrutura.csproj.CoreCompileInputs.cache
+C:\Users\Thiago\source\repos\ProjetoImunobiologico\ProjetoImunobiologico.Infraestrutura\obj\Debug\net5.0\ProjetoImunobiologico.Infraestrutura.dll
+C:\Users\Thiago\source\repos\ProjetoImunobiologico\ProjetoImunobiologico.Infraestrutura\obj\Debug\net5.0\ref\ProjetoImunobiologico.Infraestrutura.dll
+C:\Users\Thiago\source\repos\ProjetoImunobiologico\ProjetoImunobiologico.Infraestrutura\obj\Debug\net5.0\ProjetoImunobiologico.Infraestrutura.pdb
+C:\Users\Thiago\source\repos\ProjetoImunobiologico\ProjetoImunobiologico.Infraestrutura\obj\Debug\net5.0\ProjetoImunobiologico.Infraestrutura.genruntimeconfig.cache
